@@ -2,4 +2,4 @@
 
 ### Isaac Arneill Portfolio Website
 
-This will link to any repositories relevant to my portfolio.
+This website will link to any relevant github repositories for my portfolio.
